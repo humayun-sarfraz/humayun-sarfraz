@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Humayun%20Sarfraz&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%26+AI%2FML+Engineer;Laravel+%7C+React+%7C+WordPress+%7C+Python;Building+Intelligent+Applications+at+Scale" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+AI%2FML+Engineer;Laravel+%7C+React+%7C+WordPress+%7C+Python;15%2B+WordPress+Plugins+%26+Themes+Built;Building+Intelligent+Applications+at+Scale" />
 
 <br/>
 
@@ -20,21 +20,40 @@
 
 ### About
 
-I'm a full-stack developer and AI/ML engineer based in Pakistan. I build production-ready web applications, AI-powered agents, RAG systems, WordPress solutions, and automation workflows for startups and businesses.
+I'm a full-stack developer and AI/ML engineer based in Pakistan with 5+ years of experience shipping production software. I work across the entire stack — from building AI agents and RAG systems to developing Laravel backends, React frontends, and custom WordPress solutions.
+
+I've built **15+ WordPress plugins**, multiple **AI-powered SaaS products**, and end-to-end **ML pipelines** deployed on GPU infrastructure. I help startups and businesses turn ideas into scalable, production-ready applications.
 
 ```
 Available for:  Freelance  |  Contract  |  Long-term
 Minimum Rate:   $50/hr
+Experience:     5+ years  |  34+ public repositories  |  5,000+ contributions
 ```
+
+---
+
+### What I Do
+
+**AI & Machine Learning**  
+AI agents, RAG document systems, LLM integrations (OpenAI, Ollama), ML training pipelines, GPU deployments on RunPod, and business automation with n8n workflows.
+
+**Full-Stack Web Development**  
+End-to-end SaaS applications with Laravel, FastAPI, React, Next.js, and Node.js. RESTful APIs, authentication systems, payment integrations, and real-time features.
+
+**WordPress Development**  
+Custom themes (PHP 8.4 compatible), 15+ plugins including security tools, admin utilities, SEO enhancements, and dashboard customizations. Experience with headless WordPress and WooCommerce.
+
+**Mobile Development**  
+Cross-platform apps with React Native and Flutter. Native integrations, push notifications, and offline-first architectures.
 
 ---
 
 ### Currently Working On
 
-- AI agents with **LangChain** & **OpenAI** for business automation  
-- RAG-powered document intelligence systems for enterprise  
-- Full-stack SaaS products with **Laravel**, **React** & **Next.js**  
-- Custom **WordPress** themes, plugins & headless CMS solutions  
+- AI agents with **LangChain** & **OpenAI** for business automation
+- RAG-powered document intelligence systems for enterprise
+- Full-stack SaaS products with **Laravel**, **React** & **Next.js**
+- Custom **WordPress** themes & plugins (PHP 8.4 compatible)
 - GPU-accelerated model deployments on **RunPod**
 
 ---
@@ -51,6 +70,7 @@ Minimum Rate:   $50/hr
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=flat-square&logo=runpod&logoColor=white)
 
 </td>
 </tr>
@@ -63,6 +83,7 @@ Minimum Rate:   $50/hr
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 </td>
 </tr>
@@ -75,7 +96,17 @@ Minimum Rate:   $50/hr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>WordPress</b></td>
+<td>
+
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![ACF](https://img.shields.io/badge/ACF-00E4BC?style=flat-square&logo=wordpress&logoColor=white)
 
 </td>
 </tr>
@@ -99,6 +130,7 @@ Minimum Rate:   $50/hr
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
 </tr>
@@ -114,7 +146,7 @@ Minimum Rate:   $50/hr
 
 ---
 
-### Featured Work
+### Featured Projects — AI & ML
 
 <div align="center">
 
@@ -137,6 +169,34 @@ Minimum Rate:   $50/hr
 </a>&nbsp;
 <a href="https://github.com/humayun-sarfraz/rag-document-assistant">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=humayun-sarfraz&repo=rag-document-assistant&theme=github_dark&hide_border=true&border_radius=8" width="380"/>
+</a>
+
+</div>
+
+### Featured Projects — WordPress
+
+| Plugin / Theme | Description |
+|:---------------|:------------|
+| [WordPress Stealth Admin](https://github.com/humayun-sarfraz/WordPress-Stealth-Admin) | Hide admin activity, secure WordPress dashboard |
+| [Cron Commander](https://github.com/humayun-sarfraz/cron-commander) | Manage and monitor WordPress cron jobs |
+| [WP Secure Login Redirect](https://github.com/humayun-sarfraz/wp-secure-login-redirect) | Role-based login redirects with security hardening |
+| [WP Brand Login Signup](https://github.com/humayun-sarfraz/wp-brand-login-signup) | Custom branded login & registration pages |
+| [Easy Revision Guardian](https://github.com/humayun-sarfraz/wordpress-easy-revision-guardian) | Control and limit post revisions |
+| [Login Throttle](https://github.com/humayun-sarfraz/wordpress-wasy-login-throttle) | Brute force protection with login rate limiting |
+| [Lean Dashboard](https://github.com/humayun-sarfraz/Lean-Dashboard) | Declutter and customize the WordPress admin dashboard |
+| [Content Age Highlighter](https://github.com/humayun-sarfraz/wp-content-age-highlighter) | Visual indicators for outdated content |
+| [Read Time Indicator](https://github.com/humayun-sarfraz/buildbyhs-read-time-indicator-everywhere) | Display estimated read time on posts/pages |
+| [Auto Convert URLs](https://github.com/humayun-sarfraz/buildbyhs-auto-convert-plain-urls-everywhere) | Automatically linkify plain text URLs |
+| [Disable Comments](https://github.com/humayun-sarfraz/buildbyhs-disable-comments-everywhere) | Globally disable comments across all post types |
+| [Social Proof Feed](https://github.com/humayun-sarfraz/dynamic-social-proof-feed) | Dynamic social proof notifications for conversions |
+| [Helper Functions](https://github.com/humayun-sarfraz/buildbyhs-wordpress-helper-functions) | Utility functions library for WordPress development |
+| [Post View Counter](https://github.com/humayun-sarfraz/simple-post-view-counter) | Lightweight post view tracking |
+| [Greeting Bar](https://github.com/humayun-sarfraz/personalized-greeting-notification-bar) | Personalized greeting notification bars |
+
+<div align="center">
+
+<a href="https://github.com/humayun-sarfraz?tab=repositories&sort=stargazers">
+<img src="https://img.shields.io/badge/View_All_34+_Repositories-%E2%86%92-0EA5E9?style=for-the-badge"/>
 </a>
 
 </div>
