@@ -146,7 +146,7 @@ Cross-platform apps with React Native and Flutter. Native integrations, push not
 
 ---
 
-### Featured Projects — AI & ML
+### Featured Projects
 
 <div align="center">
 
@@ -170,28 +170,6 @@ Cross-platform apps with React Native and Flutter. Native integrations, push not
 <a href="https://github.com/humayun-sarfraz/rag-document-assistant">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=humayun-sarfraz&repo=rag-document-assistant&theme=github_dark&hide_border=true&border_radius=8" width="380"/>
 </a>
-
-</div>
-
-### Featured Projects — WordPress
-
-| Plugin / Theme | Description |
-|:---------------|:------------|
-| [WordPress Stealth Admin](https://github.com/humayun-sarfraz/WordPress-Stealth-Admin) | Hide admin activity, secure WordPress dashboard |
-| [Cron Commander](https://github.com/humayun-sarfraz/cron-commander) | Manage and monitor WordPress cron jobs |
-| [WP Secure Login Redirect](https://github.com/humayun-sarfraz/wp-secure-login-redirect) | Role-based login redirects with security hardening |
-| [WP Brand Login Signup](https://github.com/humayun-sarfraz/wp-brand-login-signup) | Custom branded login & registration pages |
-| [Easy Revision Guardian](https://github.com/humayun-sarfraz/wordpress-easy-revision-guardian) | Control and limit post revisions |
-| [Login Throttle](https://github.com/humayun-sarfraz/wordpress-wasy-login-throttle) | Brute force protection with login rate limiting |
-| [Lean Dashboard](https://github.com/humayun-sarfraz/Lean-Dashboard) | Declutter and customize the WordPress admin dashboard |
-| [Content Age Highlighter](https://github.com/humayun-sarfraz/wp-content-age-highlighter) | Visual indicators for outdated content |
-| [Read Time Indicator](https://github.com/humayun-sarfraz/buildbyhs-read-time-indicator-everywhere) | Display estimated read time on posts/pages |
-| [Auto Convert URLs](https://github.com/humayun-sarfraz/buildbyhs-auto-convert-plain-urls-everywhere) | Automatically linkify plain text URLs |
-| [Disable Comments](https://github.com/humayun-sarfraz/buildbyhs-disable-comments-everywhere) | Globally disable comments across all post types |
-| [Social Proof Feed](https://github.com/humayun-sarfraz/dynamic-social-proof-feed) | Dynamic social proof notifications for conversions |
-| [Helper Functions](https://github.com/humayun-sarfraz/buildbyhs-wordpress-helper-functions) | Utility functions library for WordPress development |
-| [Post View Counter](https://github.com/humayun-sarfraz/simple-post-view-counter) | Lightweight post view tracking |
-| [Greeting Bar](https://github.com/humayun-sarfraz/personalized-greeting-notification-bar) | Personalized greeting notification bars |
 
 <div align="center">
 
