@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Humayun%20Sarfraz&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%26+AI%2FML+Engineer;Building+Intelligent+Applications+at+Scale" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%26+AI%2FML+Engineer;Laravel+%7C+React+%7C+WordPress+%7C+Python;Building+Intelligent+Applications+at+Scale" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ### About
 
-I'm a full-stack developer and AI/ML engineer based in Pakistan. I build production-ready web applications, AI-powered agents, RAG systems, and automation workflows for startups and businesses.
+I'm a full-stack developer and AI/ML engineer based in Pakistan. I build production-ready web applications, AI-powered agents, RAG systems, WordPress solutions, and automation workflows for startups and businesses.
 
 ```
 Available for:  Freelance  |  Contract  |  Long-term
@@ -34,6 +34,7 @@ Minimum Rate:   $50/hr
 - AI agents with **LangChain** & **OpenAI** for business automation  
 - RAG-powered document intelligence systems for enterprise  
 - Full-stack SaaS products with **Laravel**, **React** & **Next.js**  
+- Custom **WordPress** themes, plugins & headless CMS solutions  
 - GPU-accelerated model deployments on **RunPod**
 
 ---
